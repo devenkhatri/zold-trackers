@@ -15,11 +15,11 @@ const Page: React.FC = () => {
     {
       title: 'Meetings',
       mainUrl: 'https://airtable.com/embed/shrYoglIE1u6ab35b?backgroundColor=teal&viewControls=on',
-      iconUrl: '/page/Meetings Add',
+      iconUrl: '/page/MeetingsAdd',
       icon: <IonIcon icon={add} />
     },
     {
-      title: 'Meetings Add',
+      title: 'MeetingsAdd',
       mainUrl: 'https://airtable.com/embed/shrVMGQIOvd46cU29?backgroundColor=teal',
       iconUrl: '/page/Meetings',
       icon: <IonIcon icon={list} />
