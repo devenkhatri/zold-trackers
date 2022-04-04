@@ -82,7 +82,7 @@ const Page: React.FC = () => {
             <iframe className="airtable-embed"
               src={airtableItem.mainUrl} frameBorder="0"
               onLoad={() => setLoading(false)}
-              width="100%" height="93%"
+              width="100%" height="85%"
               style={{ background: "transparent", border: "1px solid #ccc;" }} />
           </Fragment>
         }
