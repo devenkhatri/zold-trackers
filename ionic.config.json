@@ -1,0 +1,7 @@
+{
+  "name": "Zold Trackers",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

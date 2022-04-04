@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Zold Trackers",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
